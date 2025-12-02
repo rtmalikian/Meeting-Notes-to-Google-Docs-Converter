@@ -2,6 +2,8 @@
 
 This repository contains a Google Colab notebook that converts markdown-formatted meeting notes into a well-formatted Google Doc using the Google Docs API.
 
+Repository: https://github.com/rtmalikian/Meeting-Notes-to-Google-Docs-Converter.git
+
 ## Description
 
 The solution parses markdown meeting notes and converts them to a Google Doc with appropriate formatting:
